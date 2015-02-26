@@ -31,7 +31,7 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size:36px;
 	font-weight:bold;
-	color:#CC0000;
+	color:blue;
 }
 .whitetitle {
 	font: 0.7em Tahoma, sans-serif;
@@ -43,7 +43,7 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size:20px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#0B3861;
 }
 .smallwhitetext {
 	font: 0.7em Tahoma, sans-serif;
@@ -65,13 +65,13 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size: 11px;
 	font-weight:bold;
-	color:#999999;
+	color:blue;
 }
 .smallgraytext a{
 	font: 0.7em Tahoma, sans-serif;
 	font-size: 11px;
 	font-weight:bold;
-	color:#999999;
+	color:black;
 	text-decoration:none;
 }
 .smallgraytext a:hover{
@@ -81,13 +81,13 @@ body {
 	font: 0.7em Tahoma, sans-serif;
 	font-size: 11px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#7401DF;
 }
 .smallredtext a{
 	font: 0.7em Tahoma, sans-serif;
 	font-size: 11px;
 	font-weight:bold;
-	color:#CC0000;
+	color:#2E2EFE;
 	text-decoration:none;
 }
 .smallredtext a:hover{
